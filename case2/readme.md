@@ -16,7 +16,7 @@
 - Abra o arquivo senha.js
 - Siga as instruções comentadas no código
 - Substitua a senha com os requisitos necessários
-- Abra o terminal dentro da pasta e rode o comando:
+- Abra o terminal dentro da pasta case2 e rode o comando:
 ```
 node senha.js
 ```
