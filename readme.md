@@ -1,4 +1,3 @@
-# Academia Capgemini
 <div align="center">
 <img src="https://capgemini.proway.com.br/assets/img/logo-capgemini.png" width="250">
 </div>     
@@ -19,7 +18,7 @@
 ### Cada pasta case contém seu arquivo Readme explicando como rodar o código.
 
 
-# Desenvolvido por:
+## Desenvolvido por:
 
 💻 **Matheus Germano** - [Linkedin](https://www.linkedin.com/in/matheusgermanodesouza/)
 
