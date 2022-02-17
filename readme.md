@@ -17,8 +17,7 @@
 
 - [Clique aqui para obter o Nodejs](https://nodejs.org/pt-br/download/)
 
-<p> 📁 Cada pasta case contém seu arquivo Readme explicando como rodar o código. <p/>
-
+- 📁 Cada pasta case contém seu arquivo Readme explicando como rodar o código. 
 
 ## Desenvolvido por:
 
