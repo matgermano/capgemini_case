@@ -5,11 +5,11 @@
 </div>     
 
 ## Requisitos de Senha:
-1- Possui no mínimo 6 caracteres.
-2- Conter no mínimo 1 digito.
-3- Conter no mínimo 1 letra em minúsculo.
-4- Conter no mínimo 1 letra em maiúsculo.
-5- Conter no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
+- Possui no mínimo 6 caracteres.
+- Conter no mínimo 1 digito.
+- Conter no mínimo 1 letra em minúsculo.
+- Conter no mínimo 1 letra em maiúsculo.
+- Conter no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
 
 
 ## Instruções
