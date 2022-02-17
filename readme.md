@@ -1,4 +1,5 @@
-# Academia Capgemini
+# Desafio Cagemini
+
 <div align="center">
 <img src="https://capgemini.proway.com.br/assets/img/logo-capgemini.png" width="250">
 </div>     
@@ -16,10 +17,10 @@
 
 - [Clique aqui para obter o Nodejs](https://nodejs.org/pt-br/download/)
 
-### Cada pasta case contém seu arquivo Readme explicando como rodar o código.
+<p> 📁 Cada pasta case contém seu arquivo Readme explicando como rodar o código. <p/>
 
 
-# Desenvolvido por:
+## Desenvolvido por:
 
 💻 **Matheus Germano** - [Linkedin](https://www.linkedin.com/in/matheusgermanodesouza/)
 
