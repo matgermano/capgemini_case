@@ -8,7 +8,7 @@
 - Abra o arquivo loop.js
 - Siga as instruções comentadas no código
 - Escolha o número de degraus que deseja
-- Abra o terminal dentro da pasta e rode o comando:
+- Abra o terminal dentro da pasta case1 e rode o comando:
 ```
 node loop.js
 ```
